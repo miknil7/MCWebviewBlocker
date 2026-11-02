@@ -25,7 +25,7 @@ Note:
 We will provide updates if conditions arise that render the system inoperable.
 
 ## License
-| Product | Licence |
+| Product | License |
 | ---- | ---- |
 | MCWebviewBlocker | MIT |
 | Setup | Inno Setup License |
